@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../LearningAIIntegrations.Core/LearningAIIntegrations.Core.csproj" />
+  <Project Path="../LearningAIIntegrations.Infrastructure/LearningAIIntegrations.Infrastructure.csproj" />
+  <Project Path="LearningAIIntegrations.API.csproj" />
+</Solution>

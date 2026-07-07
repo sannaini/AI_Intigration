@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="LearningAIIntegrations.API/LearningAIIntegrations.API.csproj" />
+  <Project Path="LearningAIIntegrations.Core/LearningAIIntegrations.Core.csproj" />
+  <Project Path="LearningAIIntegrations.Infrastructure/LearningAIIntegrations.Infrastructure.csproj" />
+  <Project Path="LearningAIIntegrations.Shared/LearningAIIntegrations.Shared.csproj" Id="652b9647-53ef-4f4e-995c-f88003472243" />
+</Solution>
